@@ -1,0 +1,14 @@
+C:\projects\homewoek2\bin\Debug\net8.0\homewoek2.exe
+C:\projects\homewoek2\bin\Debug\net8.0\homewoek2.deps.json
+C:\projects\homewoek2\bin\Debug\net8.0\homewoek2.runtimeconfig.json
+C:\projects\homewoek2\bin\Debug\net8.0\homewoek2.dll
+C:\projects\homewoek2\bin\Debug\net8.0\homewoek2.pdb
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.AssemblyInfoInputs.cache
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.AssemblyInfo.cs
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.csproj.CoreCompileInputs.cache
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.dll
+C:\projects\homewoek2\obj\Debug\net8.0\refint\homewoek2.dll
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.pdb
+C:\projects\homewoek2\obj\Debug\net8.0\homewoek2.genruntimeconfig.cache
+C:\projects\homewoek2\obj\Debug\net8.0\ref\homewoek2.dll
